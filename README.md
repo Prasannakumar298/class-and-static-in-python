@@ -1,0 +1,1 @@
+# class-and-static-in-python
