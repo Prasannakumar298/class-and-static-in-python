@@ -1,1 +1,1 @@
-# class-and-static-in-python
+# classes-and-lists-in-python
